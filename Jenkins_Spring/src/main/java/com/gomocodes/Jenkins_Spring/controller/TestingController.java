@@ -7,7 +7,7 @@ public class TestingController {
 
     @GetMapping("/hi")
     public String hi() {
-        return "Hello gomo now we are going to implement jenkins into our spring Boot application , lets start ";
+        return "Jenkins implemeted successfully gomo";
     }
 
 }
